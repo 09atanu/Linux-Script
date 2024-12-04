@@ -126,7 +126,3 @@ This script is provided free of charge. Feel free to modify, use, and distribute
 ---
 
 ### Thank you for using the **OpenVPN Web UI User Creation Script**! 🙌
-
----
-
-This version should catch the reader’s eye and be more engaging with the use of emojis, formatting, and well-structured sections. It's designed for clarity and a more interactive reading experience.
