@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Proxy Configuration
-HTTP_PROXY="http://10.168.71.169:3128"
-HTTPS_PROXY="http://10.168.71.169:3128"
-FTP_PROXY="ftp://10.168.71.169:3128"
+HTTP_PROXY="http://<Proxy IP:Port>"
+HTTPS_PROXY="http://<Proxy IP:Port>"
+FTP_PROXY="ftp://<Proxy IP:Port>"
 NO_PROXY="localhost,127.0.0.1,::1"
 
 # Update /etc/environment for system-wide proxy
